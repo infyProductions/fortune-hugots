@@ -6,8 +6,8 @@
 # Preparation:
 ## Installing requirements
 Install the following packages in your Linux system:
-**git** *is used to clone the repository*
-**fortune** or **fortune-mod** *is the fortune app itself*
+- **git** *is used to clone the repository*
+- **fortune** or **fortune-mod** *is the fortune app itself*
 
 > Note: Please consult your package manager in your Linux Distribution on what are the available names for fortunes.
 ## Installing fortune-hugots
