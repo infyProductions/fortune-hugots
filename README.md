@@ -27,7 +27,7 @@ Install the following packages in your Linux system:
     `fortune filhugots` 
 
 ## Installing fortune-hugots in Termux (or use it as an alias)
-1. Use the following command to clone the repository to your current directory:
+1. Use the following command to clone the repository to your current (home) directory:
 
     `git clone https://github.com/CedMIX-Productions/fortune-hugots`
 
@@ -40,7 +40,7 @@ Install the following packages in your Linux system:
     `nano .bash_aliases`
 4.  Add the following lines to .bash_aliases
 
-    `alias filhugot="~/fortune-hugots/filhugots"`
+    `alias filhugot="fortune ~/fortune-hugots/filhugots"`
 5. Save and quit your work using the following steps:
 
    - Ctrl + X to exit
