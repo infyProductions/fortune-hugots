@@ -1,6 +1,6 @@
 
 # Welcome to fortune-hugots!
-![Neofetch + fortune filhugot](https://i.imgur.com/JWDdYdF.png)
+![Neofetch + fortune filhugot](samples/sample1.png)
 ## Description:
 *Fortune-Hugots* is a fortune file containing Filipino Hugot (Love) Lines. Available in Filipino/Tagalog, English, Bisaya/Cebuano languages (Added soon).
 # Preparation:
