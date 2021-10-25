@@ -18,7 +18,7 @@ Install the following packages in your Linux system:
 
      ` cd fortune-hugots ` 
    
-3. Copy the *filhugots*  and *filhugots.dat* files to the directory */usr/share/games/fortunes* using the following commands:
+3. Copy the *filhugots*  and *filhugots.dat* files to the directory */usr/share/games/fortunes* using the following commands (superuser required):
 
     - `sudo cp filhugots /usr/share/games/fortunes/` 
     - `sudo cp filhugots.dat /usr/share/games/fortunes/ ` 
@@ -39,7 +39,7 @@ Install the following packages in your Linux system:
 
     `nano .bash_aliases`
 4.  Add the following lines to .bash_aliases
-
+    ![Neofetch + fortune filhugot](samples/sample_termux3.jpg)
     `alias filhugot="fortune ~/fortune-hugots/filhugots"`
 5. Save and quit your work using the following steps:
 
@@ -48,7 +48,7 @@ Install the following packages in your Linux system:
    - Then hit Enter/Return to confirm the file save
    
 6. Refresh the *.bashrc* file using the following command:
-
+    ![Neofetch + fortune filhugot](samples/sample_termux2.jpg)
     `source .bashrc`
 7. Check your work using the defined alias:
 
