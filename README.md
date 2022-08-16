@@ -40,6 +40,7 @@ Install the following packages in your Linux system:
     `nano .bash_aliases`
 4.  Add the following lines to .bash_aliases
     ![Neofetch + fortune filhugot](samples/sample_termux3.jpg)
+    
     `alias filhugot="fortune ~/fortune-hugots/filhugots"`
 5. Save and quit your work using the following steps:
 
